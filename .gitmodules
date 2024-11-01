@@ -1,0 +1,15 @@
+[submodule "vpack"]
+	path = vpack
+	url = https://github.com/samjtro/vpack
+[submodule "ena"]
+	path = ena
+	url = https://github.com/samjtro/ena
+[submodule "pass"]
+	path = pass
+	url = https://github.com/samjtro/pass
+[submodule "docket"]
+	path = docket
+	url = https://github.com/samjtro/docket
+[submodule "ttrader"]
+	path = ttrader
+	url = https://github.com/samjtro/ttrader
